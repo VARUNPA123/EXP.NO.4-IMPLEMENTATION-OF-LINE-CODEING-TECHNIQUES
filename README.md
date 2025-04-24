@@ -40,7 +40,8 @@ b. Then connect bipolar output
 
 
 ## TABLE
-![image](https://github.com/user-attachments/assets/7ecc6a6d-7b6f-443d-96d0-3317614d7eca)
+![image](https://github.com/user-attachments/assets/a90963e2-83e9-47ab-9196-2506d57731b9)
+
 
 
 ## OUTPUT GRAPHS
