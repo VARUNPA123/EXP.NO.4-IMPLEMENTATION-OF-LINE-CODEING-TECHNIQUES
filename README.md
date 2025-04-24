@@ -48,4 +48,4 @@ b. Then connect bipolar output
 
 
 ## RESULT 
-Thus, the line techniques were studied and the graph is plotted.
+Thus, the line coding techniques were studied and the graph is plotted.
