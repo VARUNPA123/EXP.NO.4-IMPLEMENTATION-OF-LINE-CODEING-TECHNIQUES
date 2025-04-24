@@ -42,6 +42,8 @@ b. Then connect bipolar output
 ## TABLE
 
 ## OUTPUT GRAPHS
+![image](https://github.com/user-attachments/assets/97403667-48b2-4d24-be29-e7c7148a4ae6)
+
 
 ## RESULT 
 Thus, the line techniques were studied and the graph is plotted.
